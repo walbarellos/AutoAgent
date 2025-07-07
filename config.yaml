@@ -1,0 +1,8 @@
+modelo: "gpt-4"
+projeto: "projetoX"
+salvar_em: "respostas"
+tempo_entre_prompts: 3
+linguagens:
+  python: [".py"]
+  markdown: [".md"]
+  texto: [".txt"]
