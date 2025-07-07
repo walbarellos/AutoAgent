@@ -1,0 +1,5 @@
+Crie o schema Ride.
+Crie o router Ride.
+Crie o service Ride.
+Crie testes unitários para o service Ride.
+Crie o router Wallet.
